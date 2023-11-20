@@ -2,4 +2,4 @@
 
 
 
-![](./poster_cc.pdf)
+![](./poster_cc-1.png)
